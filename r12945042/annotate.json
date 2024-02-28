@@ -1,0 +1,118 @@
+{
+    "amazon.mp4": [
+        {
+            "start_frame": 22,
+            "end_frame": 36,
+            "action_type": "click",
+            "down_coordinate": [
+                12.77108433734941,
+                3.666666666666665
+            ],
+            "up_coordinate": [
+                12.77108433734941,
+                3.666666666666665
+            ],
+            "type_word": null
+        },
+        {
+            "start_frame": 41,
+            "end_frame": 94,
+            "action_type": "type",
+            "down_coordinate": [
+                49.09638554216869,
+                29.0
+            ],
+            "up_coordinate": [
+                49.09638554216869,
+                29.0
+            ],
+            "type_word": "macbook"
+        },
+        {
+            "start_frame": 165,
+            "end_frame": 232,
+            "action_type": "swipe",
+            "down_coordinate": [
+                19.81927710843375,
+                -6.666666666666664
+            ],
+            "up_coordinate": [
+                19.81927710848313,
+                70.00000000000018
+            ],
+            "type_word": null
+        },
+        {
+            "start_frame": 278,
+            "end_frame": 284,
+            "action_type": "click",
+            "down_coordinate": [
+                42.951807228915676,
+                52.166666666666664
+            ],
+            "up_coordinate": [
+                42.951807228915676,
+                52.166666666666664
+            ],
+            "type_word": null
+        }
+    ],
+    "reddit.mp4": [
+        {
+            "start_frame": 10,
+            "end_frame": 22,
+            "action_type": "click",
+            "down_coordinate": [
+                77.10843373493978,
+                2.0833333333333335
+            ],
+            "up_coordinate": [
+                77.10843373493978,
+                2.0833333333333335
+            ],
+            "type_word": null
+        },
+        {
+            "start_frame": 55,
+            "end_frame": 135,
+            "action_type": "type",
+            "down_coordinate": [
+                48.91566265060242,
+                49.08333333333333
+            ],
+            "up_coordinate": [
+                48.91566265060242,
+                49.08333333333333
+            ],
+            "type_word": "macbook"
+        },
+        {
+            "start_frame": 228,
+            "end_frame": 310,
+            "action_type": "swipe",
+            "down_coordinate": [
+                86.14457831325302,
+                -2.416666666666657
+            ],
+            "up_coordinate": [
+                86.14457831327384,
+                81.52777777777773
+            ],
+            "type_word": null
+        },
+        {
+            "start_frame": 330,
+            "end_frame": 340,
+            "action_type": "click",
+            "down_coordinate": [
+                37.891566265060256,
+                40.58333333333333
+            ],
+            "up_coordinate": [
+                37.891566265060256,
+                40.58333333333333
+            ],
+            "type_word": null
+        }
+    ]
+}
